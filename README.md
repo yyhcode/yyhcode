@@ -1,16 +1,14 @@
-## Hi there 👋
+### 👋 Hi, I'm Yuyan He (余宴合)
 
-<!--
-**yyhcode/yyhcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a postgraduate student at **Sun Yat-sen University**, working in the field of **Computer Vision**.
 
-Here are some ideas to get you started:
+📌 Research Interests:
+- Object Re-identification (Re-ID)
+- Vision-Language Pretraining
+- Transformer-based Models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact me:  
+Email: yuyan.he@mail2.sysu.edu.cn  
+GitHub: [yyhcode](https://github.com/yyhcode)
+
+📚 I actively participate in academic conferences and open-source projects.
